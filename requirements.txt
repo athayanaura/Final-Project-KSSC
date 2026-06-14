@@ -1,0 +1,26 @@
+# Dataset
+datasets
+
+# Retriever & Embedding
+sentence-transformers
+faiss-cpu
+
+# Data Processing
+pandas
+numpy
+tqdm
+
+# Generator LLM
+transformers
+accelerate
+bitsandbytes
+torch
+
+# Evaluation Metrics
+evaluate
+rouge-score
+bert-score
+nltk
+
+# Visualization
+matplotlib
