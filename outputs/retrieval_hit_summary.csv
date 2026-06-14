@@ -1,0 +1,5 @@
+top_k,num_samples,retrieval_hit_rate
+1,200,0.64
+3,200,0.805
+5,200,0.86
+10,200,0.895
